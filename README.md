@@ -1,7 +1,7 @@
 # NLPLearning-CNWordSegmentation
 Re:Zero − Chinese Word Segmentation Tool's buliding.
 
-l18i: English|[简体中文](/CN/readme.md)
+l18i: English | [简体中文](/CN/readme.md)
 
 This is a repository for a Chinese Word Segmentation Tool.
 I built it with simple enumerate way and an improved version based on viterbi algorithm.
