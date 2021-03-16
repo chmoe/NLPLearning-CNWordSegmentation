@@ -16,3 +16,5 @@ Re:Zero − 从零开始搭建一个分词工具
 - [基于维特比算法的方式](../viterbi.ipynb)
 
 在目录`../data/`下的文件为用作词典的文件
+
+有任何疑问都可以参考[我的blog的这篇文章](https://blog.cha.moe/article/cec83ef9.html)，或者在留言区提问，我会第一时间进行回复。
