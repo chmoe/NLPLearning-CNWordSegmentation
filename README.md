@@ -14,3 +14,7 @@ You can check them out as follow:
 - [Enumerate&input based](./enumerate.ipynb)
 - [Enumerate&dic based](./enumerate_old.ipynb)
 - [Viterbi based](./viterbi.ipynb)
+
+The file located on the path of `/data/` is the dataset used as dictionary, you can check it out on [here](/data/).
+
+If you have any question, take it easy to contact me on [my blog](https://blog.cha.moe/article/cec83ef9.html) comment area.
